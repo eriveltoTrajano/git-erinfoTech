@@ -9,4 +9,6 @@ if($nome == 'Erivelto'){
 echo 'Precisa melhorar';
 }
 
+echo '<footer></footer>';
+
 ?>
